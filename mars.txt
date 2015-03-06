@@ -3,4 +3,9 @@ Red the colour of love
 or the colour of anger
 sand
 next line
+<<<<<<< HEAD
 6march2015 3:08PM
+=======
+
+Hello here! 
+>>>>>>> 9b419b1e066fab285d045e9f2bfb273e92b3d12c
